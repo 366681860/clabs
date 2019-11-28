@@ -21,3 +21,4 @@ printf("please input the chain of characters\n");
 scanf("%S %S", a,b);
 printf( "%d\n" ,strindex(b,a));
 }
+
